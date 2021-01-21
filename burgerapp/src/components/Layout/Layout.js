@@ -1,6 +1,7 @@
 import React from 'react';
-import Aux from '../../hoc/Aux';
+import Aux from '../../containers/hoc/Aux';
 import classes from './Layout.css';
+// import classes from './Toolbar.css';
 const layout = (props) => {
     return (
         <Aux>
